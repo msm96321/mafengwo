@@ -1,0 +1,824 @@
+{
+    "RECORDS": [
+        {
+            "city_id": "10208",
+            "city_name": "中国 重庆 "
+        },
+        {
+            "city_id": "23697",
+            "city_name": "浙江 嘉兴 海宁 "
+        },
+        {
+            "city_id": "16925",
+            "city_name": "浙江 台州 仙居 "
+        },
+        {
+            "city_id": "18790",
+            "city_name": "宁夏 中卫 "
+        },
+        {
+            "city_id": "10832",
+            "city_name": "新疆 阿勒泰 禾木 "
+        },
+        {
+            "city_id": "11248",
+            "city_name": "江西 吉安 井冈山 "
+        },
+        {
+            "city_id": "15060",
+            "city_name": "云南 红河 建水 "
+        },
+        {
+            "city_id": "14978",
+            "city_name": "安徽 黄山 黟县 "
+        },
+        {
+            "city_id": "10481",
+            "city_name": "云南 丽江 虎跳峡 "
+        },
+        {
+            "city_id": "13701",
+            "city_name": "广西 防城港 "
+        },
+        {
+            "city_id": "10691",
+            "city_name": "四川 阿坝 汶川 "
+        },
+        {
+            "city_id": "15348",
+            "city_name": "浙江 杭州 桐庐 "
+        },
+        {
+            "city_id": "12594",
+            "city_name": "台湾 南投 "
+        },
+        {
+            "city_id": "15967",
+            "city_name": "江苏 无锡 无锡灵山 "
+        },
+        {
+            "city_id": "142763",
+            "city_name": "河北 草原天路 "
+        },
+        {
+            "city_id": "10247",
+            "city_name": "浙江 湖州 安吉 "
+        },
+        {
+            "city_id": "19079",
+            "city_name": "浙江 杭州 河坊街 "
+        },
+        {
+            "city_id": "10805",
+            "city_name": "山东 日照 "
+        },
+        {
+            "city_id": "12334",
+            "city_name": "广东 东莞 "
+        },
+        {
+            "city_id": "16215",
+            "city_name": "中国 东北 "
+        },
+        {
+            "city_id": "10236",
+            "city_name": "四川 甘孜 "
+        },
+        {
+            "city_id": "11240",
+            "city_name": "山西 太原 "
+        },
+        {
+            "city_id": "160792",
+            "city_name": "上海 上海迪士尼 "
+        },
+        {
+            "city_id": "10825",
+            "city_name": "安徽 黄山 宏村 "
+        },
+        {
+            "city_id": "16405",
+            "city_name": "台湾 台中 "
+        },
+        {
+            "city_id": "31808",
+            "city_name": "中国 西北 "
+        },
+        {
+            "city_id": "10284",
+            "city_name": "山东 泰安 泰山 "
+        },
+        {
+            "city_id": "10143",
+            "city_name": "四川 乐山 峨眉山 "
+        },
+        {
+            "city_id": "10027",
+            "city_name": "广西 桂林 阳朔 "
+        },
+        {
+            "city_id": "10136",
+            "city_name": "四川 阿坝 九寨沟 "
+        },
+        {
+            "city_id": "10207",
+            "city_name": "江苏 苏州 "
+        },
+        {
+            "city_id": "24660",
+            "city_name": "河南 洛阳 栾川 "
+        },
+        {
+            "city_id": "11274",
+            "city_name": "安徽 宣城 查济 "
+        },
+        {
+            "city_id": "19625",
+            "city_name": "云南 德宏 "
+        },
+        {
+            "city_id": "18679",
+            "city_name": "四川 绵阳 江油 "
+        },
+        {
+            "city_id": "14754",
+            "city_name": "四川 凉山 "
+        },
+        {
+            "city_id": "21804",
+            "city_name": "海南 琼海 博鳌 "
+        },
+        {
+            "city_id": "28807",
+            "city_name": "黑龙江 佳木斯 抚远 "
+        },
+        {
+            "city_id": "14946",
+            "city_name": "四川 阿坝 红原 "
+        },
+        {
+            "city_id": "23255",
+            "city_name": "辽宁 辽阳 "
+        },
+        {
+            "city_id": "10360",
+            "city_name": "台湾 台东 绿岛 "
+        },
+        {
+            "city_id": "11508",
+            "city_name": "吉林 延边 延吉 "
+        },
+        {
+            "city_id": "10468",
+            "city_name": "新疆 喀什 "
+        },
+        {
+            "city_id": "11573",
+            "city_name": "内蒙古 赤峰 "
+        },
+        {
+            "city_id": "18372",
+            "city_name": "陕西 咸阳 "
+        },
+        {
+            "city_id": "10838",
+            "city_name": "四川 南充 阆中 "
+        },
+        {
+            "city_id": "12672",
+            "city_name": "北京 延庆 "
+        },
+        {
+            "city_id": "27771",
+            "city_name": "台湾 屏东 "
+        },
+        {
+            "city_id": "10705",
+            "city_name": "湖北 宜昌 三峡 "
+        },
+        {
+            "city_id": "11319",
+            "city_name": "北京 怀柔 "
+        },
+        {
+            "city_id": "13663",
+            "city_name": "四川 绵阳 "
+        },
+        {
+            "city_id": "14939",
+            "city_name": "内蒙古 呼伦贝尔 满洲里 "
+        },
+        {
+            "city_id": "14292",
+            "city_name": "福建 漳州 南靖 "
+        },
+        {
+            "city_id": "11252",
+            "city_name": "浙江 金华 "
+        },
+        {
+            "city_id": "12513",
+            "city_name": "广西 柳州 "
+        },
+        {
+            "city_id": "11701",
+            "city_name": "海南 文昌 "
+        },
+        {
+            "city_id": "10469",
+            "city_name": "新疆 吐鲁番 "
+        },
+        {
+            "city_id": "10507",
+            "city_name": "广东 江门 开平 "
+        },
+        {
+            "city_id": "10704",
+            "city_name": "内蒙古 锡林郭勒 "
+        },
+        {
+            "city_id": "11781",
+            "city_name": "河北 唐山 "
+        },
+        {
+            "city_id": "10531",
+            "city_name": "陕西 宝鸡 太白山 "
+        },
+        {
+            "city_id": "11616",
+            "city_name": "海南 万宁 "
+        },
+        {
+            "city_id": "14104",
+            "city_name": "湖南 岳阳 "
+        },
+        {
+            "city_id": "10398",
+            "city_name": "湖南 衡阳 "
+        },
+        {
+            "city_id": "12691",
+            "city_name": "广东 江门 "
+        },
+        {
+            "city_id": "11067",
+            "city_name": "台湾 南投 日月潭 "
+        },
+        {
+            "city_id": "13571",
+            "city_name": "北京 密云 "
+        },
+        {
+            "city_id": "16009",
+            "city_name": "福建 漳州 东山岛 "
+        },
+        {
+            "city_id": "18478",
+            "city_name": "广东 阳江 海陵岛 "
+        },
+        {
+            "city_id": "12553",
+            "city_name": "上海 崇明岛 "
+        },
+        {
+            "city_id": "11386",
+            "city_name": "河北 张家口 张北 "
+        },
+        {
+            "city_id": "10347",
+            "city_name": "四川 甘孜 贡嘎 "
+        },
+        {
+            "city_id": "13913",
+            "city_name": "黑龙江 牡丹江 "
+        },
+        {
+            "city_id": "10275",
+            "city_name": "贵州 铜仁 梵净山 "
+        },
+        {
+            "city_id": "15076",
+            "city_name": "浙江 杭州 临安 "
+        },
+        {
+            "city_id": "10376",
+            "city_name": "贵州 遵义 "
+        },
+        {
+            "city_id": "11473",
+            "city_name": "黑龙江 伊春 "
+        },
+        {
+            "city_id": "18400",
+            "city_name": "新疆 阿勒泰 "
+        },
+        {
+            "city_id": "10162",
+            "city_name": "四川 阿坝 黄龙 "
+        },
+        {
+            "city_id": "10034",
+            "city_name": "河北 木兰围场 "
+        },
+        {
+            "city_id": "10770",
+            "city_name": "宁夏 中卫 沙坡头 "
+        },
+        {
+            "city_id": "13366",
+            "city_name": "陕西 汉中 "
+        },
+        {
+            "city_id": "10446",
+            "city_name": "江苏 无锡 宜兴 "
+        },
+        {
+            "city_id": "10046",
+            "city_name": "贵州 遵义 赤水 "
+        },
+        {
+            "city_id": "10403",
+            "city_name": "四川 甘孜 丹巴 "
+        },
+        {
+            "city_id": "19603",
+            "city_name": "青海 海北藏族自治州 祁连 "
+        },
+        {
+            "city_id": "18929",
+            "city_name": "广东 汕头 南澳岛 "
+        },
+        {
+            "city_id": "12913",
+            "city_name": "广西 贺州 "
+        },
+        {
+            "city_id": "17362",
+            "city_name": "江苏 苏州 昆山 "
+        },
+        {
+            "city_id": "11526",
+            "city_name": "黑龙江 大兴安岭 "
+        },
+        {
+            "city_id": "11955",
+            "city_name": "山西 晋中 "
+        },
+        {
+            "city_id": "13055",
+            "city_name": "辽宁 葫芦岛 "
+        },
+        {
+            "city_id": "10784",
+            "city_name": "甘肃 天水 "
+        },
+        {
+            "city_id": "11558",
+            "city_name": "江苏 南通 "
+        },
+        {
+            "city_id": "10414",
+            "city_name": "内蒙古 呼伦贝尔 海拉尔 "
+        },
+        {
+            "city_id": "10447",
+            "city_name": "广东 梅州 "
+        },
+        {
+            "city_id": "14369",
+            "city_name": "陕西 宝鸡 "
+        },
+        {
+            "city_id": "12715",
+            "city_name": "云南 迪庆 德钦 "
+        },
+        {
+            "city_id": "10494",
+            "city_name": "福建 龙岩 永定 "
+        },
+        {
+            "city_id": "25340",
+            "city_name": "台湾 台东 "
+        },
+        {
+            "city_id": "15812",
+            "city_name": "云南 德宏 瑞丽 "
+        },
+        {
+            "city_id": "10537",
+            "city_name": "辽宁 锦州 "
+        },
+        {
+            "city_id": "10803",
+            "city_name": "安徽 芜湖 "
+        },
+        {
+            "city_id": "10811",
+            "city_name": "西藏 日喀则 珠穆朗玛峰 "
+        },
+        {
+            "city_id": "10090",
+            "city_name": "浙江 温州 楠溪江 "
+        },
+        {
+            "city_id": "13541",
+            "city_name": "北京 房山 "
+        },
+        {
+            "city_id": "13380",
+            "city_name": "北京 门头沟 "
+        },
+        {
+            "city_id": "13125",
+            "city_name": "安徽 黄山 歙县 "
+        },
+        {
+            "city_id": "11577",
+            "city_name": "内蒙古 阿拉善 "
+        },
+        {
+            "city_id": "13190",
+            "city_name": "内蒙古 鄂尔多斯 "
+        },
+        {
+            "city_id": "18341",
+            "city_name": "广东 广州 从化 "
+        },
+        {
+            "city_id": "10787",
+            "city_name": "湖北 襄阳 "
+        },
+        {
+            "city_id": "12982",
+            "city_name": "北京 昌平 "
+        },
+        {
+            "city_id": "10290",
+            "city_name": "辽宁 葫芦岛 兴城 "
+        },
+        {
+            "city_id": "16013",
+            "city_name": "河北 秦皇岛 南戴河 "
+        },
+        {
+            "city_id": "26088",
+            "city_name": "台湾 新北 淡水 "
+        },
+        {
+            "city_id": "11707",
+            "city_name": "山东 潍坊 "
+        },
+        {
+            "city_id": "12254",
+            "city_name": "湖南 湘潭 韶山 "
+        },
+        {
+            "city_id": "11574",
+            "city_name": "内蒙古 包头 "
+        },
+        {
+            "city_id": "15228",
+            "city_name": "河南 郑州 嵩山 "
+        },
+        {
+            "city_id": "11262",
+            "city_name": "河北 保定 野三坡 "
+        },
+        {
+            "city_id": "16575",
+            "city_name": "河北 张家口 崇礼 "
+        },
+        {
+            "city_id": "15031",
+            "city_name": "天津 蓟县 "
+        },
+        {
+            "city_id": "17997",
+            "city_name": "黑龙江 哈尔滨 亚布力 "
+        },
+        {
+            "city_id": "10194",
+            "city_name": "海南 三沙市 西沙群岛 "
+        },
+        {
+            "city_id": "16216",
+            "city_name": "四川 成都 大邑 "
+        },
+        {
+            "city_id": "11609",
+            "city_name": "江西 赣州 "
+        },
+        {
+            "city_id": "11254",
+            "city_name": "贵州 黔西南 兴义 "
+        },
+        {
+            "city_id": "11694",
+            "city_name": "河南 新乡 郭亮 "
+        },
+        {
+            "city_id": "18253",
+            "city_name": "广东 惠州 惠东 "
+        },
+        {
+            "city_id": "12819",
+            "city_name": "山东 临沂 "
+        },
+        {
+            "city_id": "14125",
+            "city_name": "浙江 湖州 莫干山 "
+        },
+        {
+            "city_id": "10813",
+            "city_name": "中国 青藏线 "
+        },
+        {
+            "city_id": "12651",
+            "city_name": "浙江 衢州 "
+        },
+        {
+            "city_id": "22113",
+            "city_name": "广东 韶关 南雄 "
+        },
+        {
+            "city_id": "10474",
+            "city_name": "贵州 黔东南 凯里 "
+        },
+        {
+            "city_id": "41342",
+            "city_name": "海南 琼海 "
+        },
+        {
+            "city_id": "10816",
+            "city_name": "四川 甘孜 泸定 "
+        },
+        {
+            "city_id": "22346",
+            "city_name": "台湾 嘉义 "
+        },
+        {
+            "city_id": "14777",
+            "city_name": "陕西 渭南 "
+        },
+        {
+            "city_id": "11705",
+            "city_name": "山东 淄博 "
+        },
+        {
+            "city_id": "17019",
+            "city_name": "山东 枣庄 台儿庄 "
+        },
+        {
+            "city_id": "12555",
+            "city_name": "四川 宜宾 "
+        },
+        {
+            "city_id": "13153",
+            "city_name": "青海 海北藏族自治州 门源 "
+        },
+        {
+            "city_id": "11784",
+            "city_name": "福建 莆田 "
+        },
+        {
+            "city_id": "13159",
+            "city_name": "广西 桂林 龙胜 "
+        },
+        {
+            "city_id": "62975",
+            "city_name": "台湾 新北 "
+        },
+        {
+            "city_id": "11732",
+            "city_name": "河北 邯郸 "
+        },
+        {
+            "city_id": "10285",
+            "city_name": "中国 太行山 "
+        },
+        {
+            "city_id": "13022",
+            "city_name": "广东 河源 "
+        },
+        {
+            "city_id": "12681",
+            "city_name": "福建 宁德 "
+        },
+        {
+            "city_id": "21916",
+            "city_name": "湖南 株洲 "
+        },
+        {
+            "city_id": "10650",
+            "city_name": "云南 昆明 东川 "
+        },
+        {
+            "city_id": "11443",
+            "city_name": "安徽 黄山 西递 "
+        },
+        {
+            "city_id": "13805",
+            "city_name": "河南 安阳 "
+        },
+        {
+            "city_id": "11871",
+            "city_name": "云南 红河 "
+        },
+        {
+            "city_id": "64696",
+            "city_name": "浙江 嘉兴 桐乡 "
+        },
+        {
+            "city_id": "10835",
+            "city_name": "中国 秦岭 "
+        },
+        {
+            "city_id": "10195",
+            "city_name": "陕西 西安 "
+        },
+        {
+            "city_id": "10186",
+            "city_name": "云南 丽江 "
+        },
+        {
+            "city_id": "10035",
+            "city_name": "四川 成都 "
+        },
+        {
+            "city_id": "10030",
+            "city_name": "海南 三亚 "
+        },
+        {
+            "city_id": "10099",
+            "city_name": "中国 上海 "
+        },
+        {
+            "city_id": "10132",
+            "city_name": "福建 厦门 "
+        },
+        {
+            "city_id": "10065",
+            "city_name": "中国 北京 "
+        },
+        {
+            "city_id": "10189",
+            "city_name": "中国 香港 "
+        },
+        {
+            "city_id": "14545",
+            "city_name": "北京 房山 十渡 "
+        },
+        {
+            "city_id": "16038",
+            "city_name": "香港 中环 "
+        },
+        {
+            "city_id": "16039",
+            "city_name": "香港 尖沙咀 "
+        },
+        {
+            "city_id": "24502",
+            "city_name": "山东 济南 大明湖 "
+        },
+        {
+            "city_id": "18249",
+            "city_name": "江西 赣州 江西齐云山 "
+        },
+        {
+            "city_id": "21947",
+            "city_name": "河南 新乡 万仙山 "
+        },
+        {
+            "city_id": "10449",
+            "city_name": "河南 郑州 少林寺 "
+        },
+        {
+            "city_id": "167129",
+            "city_name": "广东 广州 广州长隆旅游度假区 "
+        },
+        {
+            "city_id": "11912",
+            "city_name": "浙江 湖州 "
+        },
+        {
+            "city_id": "11064",
+            "city_name": "台湾 台南 "
+        },
+        {
+            "city_id": "14727",
+            "city_name": "四川 甘孜 新都桥 "
+        },
+        {
+            "city_id": "11353",
+            "city_name": "甘肃 嘉峪关 "
+        },
+        {
+            "city_id": "11779",
+            "city_name": "吉林 吉林市 "
+        },
+        {
+            "city_id": "10462",
+            "city_name": "四川 阿坝 毕棚沟 "
+        },
+        {
+            "city_id": "11630",
+            "city_name": "四川 凉山 西昌 "
+        },
+        {
+            "city_id": "11911",
+            "city_name": "重庆 武隆 "
+        },
+        {
+            "city_id": "17949",
+            "city_name": "山东 潍坊 十芴园 "
+        },
+        {
+            "city_id": "185219",
+            "city_name": "山东 临沂 "
+        },
+        {
+            "city_id": "20060",
+            "city_name": "山东 滨州 鹤伴山 "
+        },
+        {
+            "city_id": "15963",
+            "city_name": "山东 泰安 岱庙 "
+        },
+        {
+            "city_id": "18019",
+            "city_name": "山东 济南 趵突泉 "
+        },
+        {
+            "city_id": "17778",
+            "city_name": "山东 日照 "
+        },
+        {
+            "city_id": "19211",
+            "city_name": "山东 青岛 灵山岛 "
+        },
+        {
+            "city_id": "19039",
+            "city_name": "山东 威海 "
+        },
+        {
+            "city_id": "11561",
+            "city_name": "山东 东营 黄河口 "
+        },
+        {
+            "city_id": "10548",
+            "city_name": "广东 清远 "
+        },
+        {
+            "city_id": "10073",
+            "city_name": "西藏 阿里 "
+        },
+        {
+            "city_id": "26471",
+            "city_name": "山东 潍坊 仰天山 "
+        },
+        {
+            "city_id": "23934",
+            "city_name": "中国 江南 "
+        },
+        {
+            "city_id": "10044",
+            "city_name": "台湾 嘉义县 阿里山 "
+        },
+        {
+            "city_id": "10124",
+            "city_name": "浙江 丽水 "
+        },
+        {
+            "city_id": "10790",
+            "city_name": "福建 漳州 "
+        },
+        {
+            "city_id": "21910",
+            "city_name": "吉林 吉林市 雾凇岛 "
+        },
+        {
+            "city_id": "196292",
+            "city_name": "海南 三亚 海棠湾 "
+        },
+        {
+            "city_id": "25339",
+            "city_name": "台湾 金门 "
+        },
+        {
+            "city_id": "18303",
+            "city_name": "云南 西双版纳 景洪 "
+        },
+        {
+            "city_id": "12475",
+            "city_name": "广东 湛江 "
+        },
+        {
+            "city_id": "10219",
+            "city_name": "河北 承德 塞罕坝 "
+        },
+        {
+            "city_id": "10589",
+            "city_name": "江西 景德镇 "
+        }
+    ]
+}
